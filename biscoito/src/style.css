@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.biscoito {
+    width: 250px;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+.frase {
+    font-style: italic;
+    color: #dd7b22;
+    text-align: center;
+}
